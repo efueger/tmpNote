@@ -4,6 +4,7 @@
       "MD005": true,
       "MD006": true,
       "MD011": true,
+      "MD013": true,
       "MD014": true,
       "MD018": true,
       "MD019": true,
