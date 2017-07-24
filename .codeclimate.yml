@@ -1,9 +1,10 @@
 engines:
   markdownlint:
     enabled: true
-    checks:
-      MD013:
-        enabled: false
+    ## checks:
+      ## MD013:
+        ## enabled: false
+    config: "mdlstyle.rb"
   fixme:
     enabled: true
   pep8:
