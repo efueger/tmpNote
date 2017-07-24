@@ -1,1 +1,1 @@
-exclude_rule 'MD013'
+"MD0013": false
